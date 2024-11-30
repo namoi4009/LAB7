@@ -1,0 +1,8 @@
+main.c:93:5:main	8	static
+main.c:157:6:SystemClock_Config	88	static
+main.c:198:6:system_init	24	static
+main.c:211:6:test_LedDebug	8	static
+main.c:218:9:isButtonClear	8	static
+main.c:223:6:touchProcess	24	static
+main.c:249:6:test_button	16	static
+main.c:263:6:Error_Handler	4	static,ignoring_inline_asm
